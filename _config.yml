@@ -3,7 +3,7 @@ tagline:          Big models for business
 description:      Insouciant
 baseurl:          '/stan-group-1'
 #Comment out url when working locally to resolve base urls correctly
-url:              http://jburos.github.io/stan-group-1
+url:              https://ericnovik.github.io/stan-group-1/
 
 # Owner/author information
 owner:
