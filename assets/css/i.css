@@ -444,6 +444,9 @@ header.site-header .wrap {
   -ms-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
+#bump .darken.header-strip a:hover {
+  color: #F4F8FE;
+}
 #bump .darken .menu .icons {
   color: #3b3b3b;
 }
@@ -456,6 +459,10 @@ header.site-header .wrap {
 #bump .darken nav ul li a:hover {
   text-shadow: none;
   color: #8ab9d1;
+}
+#bump .darken.header-strip nav ul li a:hover {
+  text-shadow: none;
+  color: #F4F8FE;
 }
 
 header.site-header a.menu {
@@ -534,6 +541,10 @@ header.site-header nav ul li a:hover {
   -webkit-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
   transition: all 0.2s ease;
+}
+
+header.site-header.darken.header-strip {
+    background-color: #9EBBE0;
 }
 
 /* Article Stuff */
@@ -1083,12 +1094,12 @@ footer .social ul li:last-child {
     color: #f9f9f9;
   }
   #bump .darken nav ul li a:active {
-    background-color: #8ab9d1;
+    background-color: #f4f8fe;
   }
   #bump .darken nav ul li a:hover {
     text-shadow: none;
-    color: #f9f9f9;
-    background-color: #8ab9d1;
+    color: #f4f8fe;
+    background-color: #f4f8fe;
   }
 }
 @media only screen and (max-width: 480px) {
