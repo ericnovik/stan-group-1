@@ -10,3 +10,4 @@ tags: [about, Jekyll, theme, responsive]
 * Ben Goodrich
 * Eric Novik
 * Jonah Gabry
+* Daniel Lee
