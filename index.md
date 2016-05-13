@@ -17,4 +17,4 @@ We formed Stan Group to help companies and individuals adopt Stan for their anal
 * Stan statistical support subscription
 * Custom model development and deployment services
 
-To schedule a free consultation with one of the founders, please contact us at <askus@stan.fit>. If you are in the New York area, please come to one of our [meetups](http://www.meetup.com/bda-group/).
+If you are interested in learning more, please contact us at <askus@stan.fit>. If you are in the New York area, please come to one of our [meetups](http://www.meetup.com/bda-group/).
