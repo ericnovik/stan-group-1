@@ -2,12 +2,14 @@
 layout: post-no-feature
 permalink: /team/index.html
 title: About the Team
-description: Our team is amazing
+description: 
 tags: [about, Jekyll, theme, responsive]
 ---
  
-### People
+### Founders
 * Ben Goodrich
 * Eric Novik
 * Jonah Gabry
 * Daniel Lee
+ 
+### Scientific Advisory
