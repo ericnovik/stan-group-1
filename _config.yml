@@ -1,16 +1,16 @@
 title:            Stan Group
-tagline:          Big models for business
+tagline:          Big Decisions -> Bayesian Models -> Stan
 description:      Insouciant
-baseurl:          '/stan-group-1'
+#baseurl:          '/stan-group-1'
 #Comment out url when working locally to resolve base urls correctly
-url:              https://ericnovik.github.io/stan-group-1/
+#url:              https://ericnovik.github.io/stan-group-1/
 
 # Owner/author information
 owner:
-  name:           Stan Group, Inc
+  name:           Stan Group Inc.
   avatar:         avatar.png
   bio:            "Insouciant"
-  email:          enovik@stan.fit
+  email:          info@stan.fit
   # Plug in your disqus shortname!
   
 
@@ -21,7 +21,7 @@ links:
     url: /team
   - title: Blog
     url: /blog
-  - title: About Stan
+  - title: Why Stan
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

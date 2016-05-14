@@ -12,9 +12,10 @@ Stan is used for fitting climate models, clinical drug trials, genomics and canc
 
 We formed Stan Group to help companies and individuals adopt Stan for their analytical work. 
 
-### Stan Group Services
+### Stan Group's Focus
 * Short, 1-3 day Stan and Bayesian training courses
 * Stan statistical support subscription
 * Custom model development and deployment services
+* Building tools that make Stan easier to use for individuals and large companies
 
 If you are interested in learning more, please contact us at <askus@stan.fit>. If you are in the New York area, please come to one of our [meetups](http://www.meetup.com/bda-group/).
