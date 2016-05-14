@@ -7,14 +7,14 @@ tags: [about, Jekyll, theme, responsive]
 ---
  
 ### Founders
-* Eric Novik is CEO of Stan Group Inc. Prior to Stan Group, Eric was a Data Scientist at TIBCO Spotfire where he built statistical applications for customers in Financial Services, Energy, Pharma, and Consumer Goods Sectors. In 2010, Eric started Risktail, an options analytics software company for retail traders. During the financial crisis of 2007-2009, he traded listed options and later spent two years in the Equity Derivatives Technology group at Barclays Capital. He has an MA in Statistics from Columbia University.
+* [Eric Novik](https://about.me/ericnovik) is CEO of Stan Group Inc. Prior to Stan Group, Eric was a Data Scientist at TIBCO Spotfire where he built statistical applications for customers in Financial Services, Energy, Pharma, and Consumer Goods Sectors. In 2010, Eric started Risktail, an options analytics software company for retail traders. During the financial crisis of 2007-2009, he traded listed options and later spent two years in the Equity Derivatives Technology group at Barclays Capital. He has an MA in Statistics from Columbia University.
 
-* Ben Goodrich is a Stan developer and a Lecturer at Columbia University where he teaches in the political science department and the Quantitative Methods in the Social Sciences master’s program. He is the maintainer of the `rstan` and `rstanarm` R packages, which provide interfaces to Stan. He has a Ph.D
+* [Daniel Lee](http://syclik.com/) is an applied Bayesian statistician working on Stan. He is a statistics researcher at Columbia University working with Andrew Gelman. He has a CASM (Part III) from Cambridge and a B.S. in Mathematics with Computer Science from MIT.
+
+* [Ben Goodrich](http://www.columbia.edu/~bg2382/) is a Stan developer and a Lecturer at Columbia University where he teaches in the political science department and the Quantitative Methods in the Social Sciences master’s program. He is the maintainer of the `rstan` and `rstanarm` R packages, which provide interfaces to Stan. He has a Ph.D
 in Government and Social Policy from Harvard.
 
-* Daniel Lee is an applied Bayesian statistician working on Stan. He is a statistics researcher at Columbia University working with Andrew Gelman. He has a CASM (Part III) from Cambridge and a B.S. in Mathematics with Computer Science from MIT.
-
-* Jonah Gabry is a member of the Stan core development team, and a researcher in statistics at Columbia University working with Andrew Gelman and the Columbia Population Research Center. He is a co-author of the `rstan` and `rstanarm` interfaces to Stan, as well as the `loo` and `shinystan` R packages for model evaluation. 
+* [Jonah Gabry](http://jgabry.github.io/) is a member of the Stan core development team, and a researcher in statistics at Columbia University working with Andrew Gelman and the Columbia Population Research Center. He is a co-author of the `rstan` and `rstanarm` interfaces to Stan, as well as the `loo` and `shinystan` R packages for model evaluation. 
  
 ### Scientific Advisory
 
