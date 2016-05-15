@@ -293,11 +293,20 @@ small {
 }
 
 blockquote, blockquote p {
-  font-style: italic;
+  /*font-style: italic;
   line-height: 1.3em;
   text-align: center;
   color: #3c3c3c;
-  margin-bottom: 33px;
+  margin-bottom: 33px;*/
+  font: 20px/20px italic Times, serif;
+  padding: 8px;
+  background-color: #faebbc;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+  margin: 5px;
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 23px;
 }
 
 /*   Code Formatting    */
