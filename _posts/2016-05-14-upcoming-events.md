@@ -7,11 +7,9 @@ category: articles
 ---
 
 ## Bernoulli Model
-The simplest model we can try is perhaps based on a series of independent binary events, each with an unknown probability \\(\\theta\\) say when someone "hands you" a series of zeros and ones and asks to estimate the posterior probability of \\(\\theta > 0.50\\). The joint model (likelihood) can be written as:
+The simplest model we can try is perhaps based on a series of independent binary events, each with an unknown probability $$\\(\\theta\\)$$ say when someone "hands you" a series of zeros and ones and asks to estimate the posterior probability of $$\\(\\theta > 0.50\\)$$. The joint model (likelihood) can be written as:
 
-<div>
 $$ p(\theta,y) = \prod_{n = 1}^{N}\theta^{y_{n}} * (1 - \theta)^{1- y_{n}} = \theta^{\sum_{n=1}^{N}y_{n}} * (1 - \theta)^{\sum_{n=1}^{N}(1- y_{n})} $$
-</div>
 
 We typically work on a log scale, and so:
 

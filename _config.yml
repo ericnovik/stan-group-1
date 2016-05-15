@@ -15,7 +15,6 @@ owner:
   location:       "Brooklyn, NY"
   twitter:        mcmc_stan
   # Plug in your disqus shortname!
-  
 
 # Links to include in top navigation
 # For external links add external: true
@@ -32,7 +31,9 @@ timezone:    America/New_York
 future:      true
 pygments:    true
 markdown:    kramdown
+#markdown:    redcarpet
 
+#redcarpet:
 kramdown:
   auto_ids: true
   footnote_nr: 1
