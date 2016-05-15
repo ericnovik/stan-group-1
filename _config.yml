@@ -1,9 +1,9 @@
 title:            Stan Group
 tagline:          Big Decisions -> Bayesian Models -> Stan
 description:      Insouciant
-baseurl:          '/stan-group-1'
+#baseurl:          '/stan-group-1'
 #Comment out url when working locally to resolve base urls correctly
-url:              https://ericnovik.github.io/stan-group-1/
+#url:              https://ericnovik.github.io/stan-group-1/
 
 # Owner/author information
 owner:
@@ -11,6 +11,9 @@ owner:
   avatar:         avatar.png
   bio:            "Insouciant"
   email:          info@stan.fit
+  disqus:         ericnovik
+  location:       "Brooklyn, NY"
+  twitter:        mcmc_stan
   # Plug in your disqus shortname!
   
 

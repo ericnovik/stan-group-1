@@ -18,4 +18,4 @@ We formed Stan Group to help companies and individuals adopt Stan for their anal
 * Custom model development and deployment
 * Building tools that make Stan easier to use for individuals and large companies
 
-If you are interested in learning more, please contact us at <askus@stan.fit>. If you are in the New York area, join us at the Bayesian Data Analysis [meetup](http://www.meetup.com/bda-group/).
+If you are interested in learning more, please contact us at <askus@stan.fit>. If you are in the New York area, join us at our Bayesian Data Analysis [meetups](http://www.meetup.com/bda-group/).
