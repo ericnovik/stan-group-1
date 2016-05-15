@@ -1,9 +1,9 @@
 title:            Stan Group
 tagline:          Big Decisions -> Bayesian Models -> Stan
 description:      Insouciant
-baseurl:          '/stan-group-1'
+#baseurl:          '/stan-group-1'
 #Comment out url when working locally to resolve base urls correctly
-url:              https://ericnovik.github.io/stan-group-1/
+#url:              https://ericnovik.github.io/stan-group-1/
 
 # Owner/author information
 owner:
@@ -29,7 +29,8 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-pygments:    true
+#pygments:    true
+rouge:       true
 markdown:    kramdown
 #markdown:    redcarpet
 
@@ -39,7 +40,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers: 

@@ -3,14 +3,13 @@
     <aside class="wrap">
       <ol class="prev-posts">
         <p class="list-title">Recent Posts</p>
-        {% for post in site.posts | limit:3 %} <!-- for1 -->
+        {% for post in site.posts | limit:3 %} 
             <li>
               <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | strip_html | strip_newlines | truncate: 30 }} </a></span>
               <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
             </li>
         {% endfor %}
       </ol>
-      
       <div class="social">
         <ul>
             <li><a id="mail" href="mailto:{{ site.owner.email }}"><span class="foot-link">Contact Us</span></a></li>
@@ -46,7 +45,9 @@
   ga('create', 'UA-77748474-1', 'auto');
   ga('send', 'pageview');
   </script>
-  
 
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
+  
   </body>
 </html>
